@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Assessment 1 Exercise 2.cpp
+c:\users\ian kirk\source\repos\gpr-assessment-1.2\assessment 1 exercise 2\assessment 1 exercise 2\assessment 1 exercise 2\assessment 1 exercise 2.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assessment 1 Exercise 2.vcxproj -> C:\Users\Ian Kirk\source\repos\GPR-Assessment-1.2\Assessment 1 Exercise 2\Assessment 1 Exercise 2\Debug\Assessment 1 Exercise 2.exe
